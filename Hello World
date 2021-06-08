@@ -1,0 +1,6 @@
+using System;
+
+Public Static Void Main(){
+Console.WriteLinein("HelLo World");
+
+}
